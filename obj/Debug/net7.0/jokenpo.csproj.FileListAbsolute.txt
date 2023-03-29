@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\jokenpo.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\jokenpo.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\jokenpo.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\bin\Debug\net7.0\jokenpo.exe
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\bin\Debug\net7.0\jokenpo.deps.json
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\bin\Debug\net7.0\jokenpo.runtimeconfig.json
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\bin\Debug\net7.0\jokenpo.dll
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\bin\Debug\net7.0\jokenpo.pdb
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\jokenpo.dll
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\refint\jokenpo.dll
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\jokenpo.pdb
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\jokenpo.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\Code\c\jokenpo\obj\Debug\net7.0\ref\jokenpo.dll
